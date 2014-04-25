@@ -1,0 +1,27 @@
+<a href= "link01.html">环球航海</a><br><br>
+<a href= "link02.html">翟墨和邓尼茨</a><br><br>
+<a href= "link03.html">现代歌剧精华推荐</a><br><br>
+<a href= "link04.html">德里克 迪恩（Derek Deane）</a><br><br>
+<a href= "link05.html">芭蕾（法语“ballet”）</a><br><br>
+<a href= "link06.html">《旧制度与大革命》</a><br><br>
+<a href= "link07.html">艺术和宗教</a><br><br>
+<a href= "link08.html">海军《沧海》</a><br><br>
+<a href= "link09.html">德雷克（Drake）</a><br><br>
+
+
+<a href= "link10.html">吴冠中：《我负丹青》</a><br><br>
+<a href= "link11.html">王澍艺术探险</a><br><br>
+<a href= "link12.html">马友友的人文世界</a><br><br>
+
+
+<a href= "link13.html">统治世界的女强人们</a><br><br>
+
+
+<a href= "pic08.html">谁？人民</a><br><br>
+<a href= "pic07.html">Roban抽象建模</a><br><br>
+
+
+<a href= "pic06.html">马友友和赖斯（Rice）</a><br><br>
+
+
+<a href= "story04.html">北京人民艺术剧院</a><br><br>
